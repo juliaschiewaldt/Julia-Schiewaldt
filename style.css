@@ -4,7 +4,7 @@
 }
 
 .cabecalho{
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     color: black;
     display: flex;
     justify-content: space-around;
@@ -27,6 +27,17 @@
 .vivara-imagem{
     width: 3%;
 }
+#imgpos{
+    position: absolute;left: 40px; top: 5px;
+   
+}
+#imgpos2{
+    position: absolute;right: 30px; top: 30px;
+}
+#imgpos3{
+    position: absolute;right: 100px; top: 40px;
+}
+
 
 .vivara{
     background-image: linear-gradient(#FFFFFF);
